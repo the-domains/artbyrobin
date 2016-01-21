@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[artbyrobin]]></title>
         <description><![CDATA[artbyrobin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artbyrobin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 04:36:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 04:36:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artbyrobin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Your Hands Messy]]></title>
+            <description><![CDATA[<article><h1>Get Your Hands Messy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0050928ff21cb30387eb5127c5e7b13a58c9298f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/artbyrobin/get-your-hands-messy/index.html</link>
+            <guid isPermaLink="false">4984f15e-8291-4bb9-811c-9eca3be82e4d</guid>
+            <pubDate>Thu, 21 Jan 2016 04:36:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Laying it Down]]></title>
             <description><![CDATA[<article><h1>Laying it Down</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/183a112bfd84bff66c8df0f8ee78753d4a43e09d.jpg"></article>]]></description>
-            <link>undefinedlaying-it-down/index.html</link>
+            <link>https://thegrid.ai/artbyrobin/laying-it-down/index.html</link>
             <guid isPermaLink="false">27e5af90-d216-4dcb-ad73-dd1d1d1c0333</guid>
             <pubDate>Thu, 21 Jan 2016 04:36:42 GMT</pubDate>
         </item>
