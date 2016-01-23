@@ -3,9 +3,9 @@ favicon: null
 name: artbyrobin
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
 color:
-  brandStrength: 0.006745363
+  brandStrength: 0.8507589
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
   brandColors:
-    - '#E2CFBC'
-    - '#878689'
-    - '#150E0E'
-    - '#6D5C53'
-    - '#C67766'
+    - '#0E0C0C'
+    - '#906F42'
+    - '#C5B4AC'
+    - '#FFFBE9'
+    - '#BD0C28'
 typography_spectrum: 0.301855
