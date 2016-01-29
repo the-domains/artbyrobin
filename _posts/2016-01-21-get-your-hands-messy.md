@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T04:36:42.447Z'
-dateModified: '2016-01-21T04:32:16.910Z'
+datePublished: '2016-01-29T01:59:06.742Z'
+dateModified: '2016-01-23T04:26:22.204Z'
 title: Get Your Hands Messy
 author: []
 authors: []
