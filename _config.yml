@@ -1,9 +1,7 @@
-favicon: null
 name: artbyrobin
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.87658
+typography_spectrum: 0.50572
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  lightness: 0.6875
   brandColors:
     - '#a51e24'
     - '#ffffff'
     - '#f37123'
     - '#6279bc'
     - '#b9b935'
-  rhythmicContrast: 1
-typography_spectrum: 0.50572
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.87658
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
